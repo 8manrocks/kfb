@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kfb/static/css/main.cba4c113.css",
+    "main.js": "/kfb/static/js/main.8fa2adc1.js",
+    "static/js/787.458f1131.chunk.js": "/kfb/static/js/787.458f1131.chunk.js",
+    "static/media/background.jpg": "/kfb/static/media/background.24715d85e7c114716b92.jpg",
+    "index.html": "/kfb/index.html",
+    "main.cba4c113.css.map": "/kfb/static/css/main.cba4c113.css.map",
+    "main.8fa2adc1.js.map": "/kfb/static/js/main.8fa2adc1.js.map",
+    "787.458f1131.chunk.js.map": "/kfb/static/js/787.458f1131.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba4c113.css",
+    "static/js/main.8fa2adc1.js"
+  ]
+}
