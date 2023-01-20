@@ -122,7 +122,7 @@ function App() {
         <Grid container>
           <Grid item md={2} sm={12} xs={12}>
             <div className="centerAlign">
-              <img src="/kfb/Logo_1.png" alt="" className="logo" />
+              <img src="/Logo_1.png" alt="" className="logo" />
             </div>
           </Grid>
           <Grid item md={10} sm={12} xs={12} container justifyContent="center">
