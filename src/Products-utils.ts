@@ -57,6 +57,24 @@ export const products: Product[] = [{
     img: "/kfb/Products/snack-10.png",
     type: "Wafers",
     desc: "Are you looking for a tasty and satisfying snack that will hit the spot every time? Look no further than classic salted Wafers from KFB! Our Wafers are made with only the highest quality ingredients, including the finest potatoes and a sprinkle of salt to bring out their natural flavor. Enjoy them on their own or pair them with your favorite dip for a delicious treat that's perfect for any occasion. Whether you're hosting a party, watching the game, or just craving a tasty snack, classic salted Wafers from KFB have got you covered."
+},
+{
+    title: "Gathiya",
+    img: "/kfb/Products/snack-11.png",
+    type: "Namkeen",
+    desc: "Craving something crunchy and delicious? Try KFB Bhojaji Gathia Namkeen! Made with the finest ingredients and traditional recipe, our gathia namkeen is the perfect snack for any time of day. Whether you're looking for a tasty treat to munch on during a break, or a snack to enjoy with friends and family, KFB Bhojaji Gathia Namkeen is sure to satisfy. So why wait? Grab a bag today and taste the difference for yourself!"
+},
+{
+    title: "Papdi",
+    img: "/kfb/Products/snack-12.png",
+    type: "Namkeen",
+    desc: "Looking for a crispy and flavorful snack? Look no further than KFB Papdi Namkeen! Made with the freshest ingredients and traditional recipe, our papdi namkeen is the perfect snack for any occasion. Whether you're looking for a satisfying crunch during your lunch break, or a tasty treat to share with friends and family, KFB Papdi Namkeen is sure to delight. Don't wait, grab a bag today and enjoy the taste of authentic Indian snacking at its best!"
+},
+{
+    title: "Sev Murmura",
+    img: "/kfb/Products/snack-13.png",
+    type: "Namkeen",
+    desc: "In the mood for something light and crispy? Try KFB Sev Murmura Namkeen! Made with the best ingredients and traditional recipe, our sev murmura namkeen is the perfect snack for any time of day. Whether you're looking for a satisfying crunch during your afternoon break, or a tasty treat to share with friends and family, KFB Sev Murmura Namkeen is sure to delight. So why wait? Grab a bag today and experience the delicious taste of authentic Indian snacking with KFB Sev Murmura Namkeen."
 }]
 export const carouselProducts: Product[] = [
     {
