@@ -1,3 +1,6 @@
+# Online catalogue for kfb bhojaji snacks company
+Built with react, hosted on github pages, supports routing.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
